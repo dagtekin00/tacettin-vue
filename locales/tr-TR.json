@@ -1,0 +1,35 @@
+{
+  "navabout": "HAKKIMDA",
+  "naveducations": "EĞİTİM",
+  "navprojects": "PROJELER",
+  "navcontact": "İLETİŞİM",
+  "navproducts": "ÜRÜNLER",
+  "skill": "Yetenekler",
+
+  "skills": "Ön Uç Geliştirici",
+  "About": "Hakkımda",
+  "abouttxt": "Merhaba, ben Tacettin. Bu sektörde mümkün olduğunca kendimi geliştiren genç bir adamım. Bu sektörde her şey olduğu gibi kalmaz ve sürekli değiştiği için ilgimi çekiyor. 14 yaşında bu sektöre atıldım, ilk başta abimle birlikte çalışmaya başladım, ondan eğitimler aldım ve front-end bölümüne yönlendim. Bu alanda 7-8 adet web sitesi yapmış bulunmaktayım ve hala kendimi geliştirmeye çalışıyorum, aynı zamanda iOS üzerinde swift yazarak mobil tarafında da kendimi geliştirmeye çalışıyorum. Aynı zamanda Photoshop'u temel seviyede biliyorum. Bu alanda okul eğitimim ve kendi çabalarımla kendimi sürekli olarak geliştiriyorum.",
+
+  "Educations": "Eğitim",
+  "school": "Pendik Türk Telekom Mesleki Teknik ve Anadolu Lisesi",
+
+  "projects": "Projeler",
+  "projectsbtn": "Ulaşmak İçin",
+  "projectsname": "kullanıcı Veri Girişi",
+  "dotnet": "Dotnet-Proje",
+
+  "contact": "İletişim",
+  "contactbtn": "Gönder",
+
+  "products": "ÜRÜNLER",
+  "tosort": "Sıralamak",
+  "goback": "Geri Gitmek",
+  "category": "Kategori",
+  "brand": "Marka",
+  "discountPercentage": "İndirim Yüzdesi",
+  "rating": "Değerlendirme",
+  "addtobasket": "Sepete Ekle",
+  "productspages": "Products Sayfası için Filtreleme",
+  "addedtocart": "Ürün sepete eklendi!",
+  "totalPrice": "Toplam Fiyat:"
+}

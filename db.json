@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Tacettin",
+      "email": "tacettindagtekin@gmail.com",
+      "phone": "awdaaawd",
+      "message": "dwawd",
+      "id": 2
+    },
+    {
+      "name": "Tacettin",
+      "email": "awdwada@gmail.com",
+      "phone": "wad",
+      "message": "daw",
+      "id": 3
+    },
+    {
+      "name": "Tacettin",
+      "email": "awdwada@gmail.com",
+      "phone": "wad",
+      "message": "daw",
+      "id": 4
+    },
+    {
+      "name": "Tacettin",
+      "email": "awdwada@gmail.com",
+      "phone": "wad",
+      "message": "daw",
+      "id": 5
+    },
+    {
+      "name": "awd",
+      "email": "tacettindagtekin@gmail.com",
+      "phone": "awd",
+      "message": "wad",
+      "id": 6
+    },
+    {
+      "name": "Tacettin",
+      "email": "tacettindagtekin.intime@gmail.com",
+      "phone": "awdawd",
+      "message": "wawqqr",
+      "id": 7
+    },
+    {
+      "name": "awdwd",
+      "email": "wadwdadw@gmail.com",
+      "phone": "dwaawd",
+      "message": "dwadw",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
